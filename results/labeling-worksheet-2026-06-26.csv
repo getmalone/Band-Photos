@@ -1,0 +1,351 @@
+photo_id,bucket,confidence,vision_brand,vision_line,cf_top_slug,cf_brand,cf_line,brand_agree,expected_slug
+band-0161d19ab3a8.jpg,ambiguous,0.632,LA AROMA DE CUBA,,pdr-el-trovador-maduro-robusto,PDR,El Trovador Maduro Robusto,brand-DIFF,pdr-el-trovador-maduro-robusto
+band-01a76517bea0.jpg,auto-match,0.99,God of Fire,Double Robusto,angelenos-by-god-of-fire-double-robusto,God of Fire,Double,brand-agree,angelenos-by-god-of-fire-double-robusto
+band-01cf1b076898.jpg,ambiguous,0.771,HIT RUN,,gurkha-park-avenue,Gurkha,Park Avenue,brand-DIFF,gurkha-park-avenue
+band-01db8aecfbe8.jpg,auto-match,0.99,CAO,BRAZILIA BOX-PRESS,cao-brazilia,CAO,Brazilia,brand-agree,cao-brazilia
+band-02c5edd09590.jpg,ambiguous,0.673,MIXTEC,,cao-arcana-stokk-belicoso,CAO,Arcana Stokk,brand-DIFF,cao-arcana-stokk-belicoso
+band-0301b034dec8.jpg,auto-match,0.99,DIAMOND CROWN,JULIUS CAESER,diamond-crown-julius-caeser,Diamond Crown,Julius Caeser,brand-agree,diamond-crown-julius-caeser
+band-03070e9d9249.jpg,ambiguous,0.842,Rocky Patel,Vintage 1990,rocky-patel-vintage-1990,Rocky Patel,Vintage 1990,brand-agree,rocky-patel-vintage-1990
+band-03592a1a0d2f.jpg,auto-match,0.99,Dunbarton Tobacco & Trust,Sin Compromiso,dunbarton-tobacco-trust-sin-compromiso,Dunbarton Tobacco & Trust,Sin Compromiso,brand-agree,dunbarton-tobacco-trust-sin-compromiso
+band-068dd44ca959.jpg,auto-match,0.98,Highclere Castle,,highclere-castle-senetjer-perfecto,Highclere Castle,Senetjer Perfecto,brand-agree,highclere-castle-senetjer-perfecto
+band-06aea6f31f18.jpg,auto-match,0.99,Drew Estate,Factory Smoke,drew-estate-factory-smokes,Drew Estate,Factory Smokes,brand-agree,drew-estate-factory-smokes
+band-0722dcd121c1.jpg,auto-match,0.953,SEMILLA CUBANA,BUENAVENTURA,curivari-buenaventura,Curivari,Buenaventura,brand-DIFF,curivari-buenaventura
+band-077d89a92cb5.jpg,auto-match,0.99,Montecristo,White Series,montecristo-white-series-belicoso,Montecristo,White Series,brand-agree,montecristo-white-series-belicoso
+band-091c38586d27.jpg,auto-match,0.99,COHIBA,CONNECTICUT,cohiba-connecticut-toro-6-5-52,Cohiba,Connecticut,brand-agree,cohiba-connecticut-toro-6-5-52
+band-0968bfaa9fa2.jpg,auto-match,0.99,CINCO DE MAYO,Limited Edition 2025,camacho-limited-edition-2025,Camacho,Limited Edition 2025,brand-DIFF,camacho-limited-edition-2025
+band-0aab938c7809.jpg,auto-match,0.98,My Father,Fonseca,my-father-belicoso,My Father,My Father,brand-agree,my-father-belicoso
+band-0b13f2a5880e.jpg,auto-match,0.99,PLASENCIA,COSECHA 149,plasencia-cosecha-149,Plasencia,Cosecha 149,brand-agree,plasencia-cosecha-149
+band-0beb437bd536.jpg,auto-match,0.99,Romeo y Julieta,Medallas de Oro Connecticut Nicaragua,romeo-y-julieta-medallas-de-oro,Romeo y Julieta,Medallas De Oro,brand-agree,romeo-y-julieta-medallas-de-oro
+band-0bee53e7ac80.jpg,auto-match,0.99,Joya de Nicaragua,Antaño CT,joya-de-nicaragua-antano,Joya de Nicaragua,Antano,brand-agree,joya-de-nicaragua-antano
+band-0c03642cd3c1.jpg,auto-match,0.99,Alfonso,Gran Seleccion,alfonso-gran-seleccion,Alfonso,Gran Seleccion,brand-agree,alfonso-gran-seleccion
+band-0c9ce5dc0bcb.jpg,auto-match,0.99,Padron,1964 Anniversary Series,padron-1964-anni-belicoso,Padrón,1964 Anni.,brand-DIFF,padron-1964-anni-belicoso
+band-0edf38af4860.jpg,auto-match,0.99,THE TABERNACLE,HAVANA SEED CT,the-tabernacle-havana-seed-ct-142,The Tabernacle,Havana Seed CT 142,brand-agree,the-tabernacle-havana-seed-ct-142
+band-0f06766f1344.jpg,auto-match,0.98,Island Jim,,island-jim,Island Jim,Original,brand-agree,island-jim
+band-0f22b73873b2.jpg,auto-match,0.99,Arturo Fuente,Don Carlos,arturo-fuente-don-carlos,Arturo Fuente,Don Carlos,brand-agree,arturo-fuente-don-carlos
+band-0f85c04d7503.jpg,auto-match,0.98,Oliva,Master Blends 3,oliva-gilberto-oliva-reserva,Oliva,Gilberto Oliva Reserva,brand-agree,oliva-gilberto-oliva-reserva
+band-0fa61e90d3a0.jpg,auto-match,0.98,Dirty Rat,,liga-privada-unico-dirty-rat,Drew Estate,Liga Privada Unico Dirty Rat,brand-DIFF,liga-privada-unico-dirty-rat
+band-1057ffd512e1.jpg,ambiguous,0.742,BUENAVENTURA,,curivari-buenaventura,Curivari,Buenaventura,brand-DIFF,curivari-buenaventura
+band-105e88cfd766.jpg,auto-match,0.99,PERDOMO,10TH ANNIVERSARY SUN GROWN,perdomo-10th-anniversary-sun-grown,Perdomo,10th Anniversary Sun Grown,brand-agree,perdomo-10th-anniversary-sun-grown
+band-10d30233f697.jpg,auto-match,0.99,PLASENCIA,ALMA FUERTE,plasencia-alma-fuerte,Plasencia,Alma Fuerte,brand-agree,plasencia-alma-fuerte
+band-10f7580ee74a.jpg,auto-match,0.99,AGANORSA LEAF,SUPREME LEAF,aganorsa-leaf-supreme-leaf-toro,Aganorsa Leaf,Supreme Leaf,brand-agree,aganorsa-leaf-supreme-leaf-toro
+band-113954e4f825.jpg,auto-match,0.98,Tatuaje,,tatuaje-cabaiguan,Tatuaje,Cabaiguan,brand-agree,tatuaje-cabaiguan
+band-11995d8b7b90.jpg,auto-match,0.99,Montecristo,White Series,montecristo-white-series-belicoso,Montecristo,White Series,brand-agree,montecristo-white-series-belicoso
+band-11bcfa9616b7.jpg,ambiguous,0.706,THE TEXAN,,fratello-the-texan,Fratello,The Texan,brand-DIFF,fratello-the-texan
+band-1360d6d747ee.jpg,auto-match,0.98,Tatuaje,,tatuaje-cabaiguan,Tatuaje,Cabaiguan,brand-agree,tatuaje-cabaiguan
+band-151903d0f8e4.jpg,auto-match,0.99,Arturo Fuente,Gran Reserva,arturo-fuente-gran-reserva-rothschild-natural,Arturo Fuente,Gran Reserva Rothschild Natural,brand-agree,arturo-fuente-gran-reserva-rothschild-natural
+band-159b91c8dbe9.jpg,auto-match,0.861,LA FABRICA,,caribe-deluxe,Caribe,Deluxe,brand-DIFF,caribe-deluxe
+band-15d4af929132.jpg,auto-match,0.99,PERDOMO,10th Anniversary Sun Grown,perdomo-10th-anniversary-sun-grown,Perdomo,10th Anniversary Sun Grown,brand-agree,perdomo-10th-anniversary-sun-grown
+band-16043254378c.jpg,auto-match,0.98,Diamond Crown,Julius Caesar,diamond-crown-julius-caeser-hail-caesar,Diamond Crown Julius Caeser,Hail Caesar,brand-agree,diamond-crown-julius-caeser-hail-caesar
+band-162348a9350a.jpg,auto-match,0.98,New World,,a-j-fernandez-new-world,A.J. Fernandez,New World,brand-DIFF,a-j-fernandez-new-world
+band-1715f075f560.jpg,auto-match,0.99,My Father,Le Bijou 1922,my-father-le-bijou-1922-100-anos,My Father,Le Bijou 1922 100 Anos,brand-agree,my-father-le-bijou-1922-100-anos
+band-1729a2560fb9.jpg,auto-match,0.99,Drew Estate,L40,liga-privada-unico-l40-lancero,Drew Estate,Liga Privada Unico L40 Lancero,brand-agree,liga-privada-unico-l40-lancero
+band-1745a224eb81.jpg,ambiguous,0.513,Not a cigar band,,dias-de-gloria-brazil,A.J. Fernandez,Brazil,brand-DIFF,dias-de-gloria-brazil
+band-17d891116a83.jpg,auto-match,0.99,Tatuaje,Corojo,tatuaje-corojo,Tatuaje,Corojo,brand-agree,tatuaje-corojo
+band-17ed148f4072.jpg,auto-match,0.99,My Father,Blue,my-father-blue,My Father,Blue,brand-agree,my-father-blue
+band-17f741cb3d7a.jpg,auto-match,0.99,Tatuaje,Cabaiguan,tatuaje-cabaiguan,Tatuaje,Cabaiguan,brand-agree,tatuaje-cabaiguan
+band-18f387286e85.jpg,auto-match,0.891,CRUX,EPICURE,crux-epicure-habano,Crux,Epicure Habano,brand-agree,crux-epicure-habano
+band-1928da611b3c.jpg,ambiguous,0.757,PLASENCIA,RESERVA ORIGINAL,plasencia-reserva-original-organica-nesticos,Plasencia,Reserva Original,brand-agree,plasencia-reserva-original-organica-nesticos
+band-1968e093cc16.jpg,auto-match,0.98,MAYFLOWER,,mayflower-dusk-toro,Mayflower,Dusk,brand-agree,mayflower-dusk-toro
+band-198d11c02972.jpg,auto-match,0.99,COHIBA,RED DOT,cohiba-red-dot-corona,Cohiba,Red Dot,brand-agree,cohiba-red-dot-corona
+band-19aab4dd6964.jpg,auto-match,0.99,Plasencia,Alma Fuerte,plasencia-alma-fuerte,Plasencia,Alma Fuerte,brand-agree,plasencia-alma-fuerte
+band-19f97425f1d8.jpg,auto-match,0.98,Arturo Fuente,,arturo-fuente-fuente-opus-x-forbidden-x-taa,Arturo Fuente,Fuente Opus X Forbidden X TAA,brand-agree,arturo-fuente-fuente-opus-x-forbidden-x-taa
+band-1a7d83a8fafe.jpg,low-confidence,0.426,Image is too blurry to identify text on the band.,,g-a-r-by-george-rico,G.A.R.,By George Rico,brand-DIFF,g-a-r-by-george-rico
+band-1a9dc1722f94.jpg,ambiguous,0.756,AVE MARIA,IMMECULATA,ave-maria-argentum,Ave Maria,Argentum,brand-agree,ave-maria-argentum
+band-1b049ef80898.jpg,auto-match,0.98,LA FLOR DOMINICANA,LFD,lfd-suave-grand-maduro-no-6,La Flor Dominicana,Suave Grand Maduro No. 6,brand-agree,lfd-suave-grand-maduro-no-6
+band-1c0c76526427.jpg,auto-match,0.99,MYRON,RESERVA 3 ANOS,byron-reserva-3-anos,Byron,Reserva 3 Años,brand-DIFF,byron-reserva-3-anos
+band-1dcbd00cf7aa.jpg,auto-match,0.99,PLASENCIA,ALMA DEL FUEGO,plasencia-alma-del-fuego,Plasencia,Alma del Fuego,brand-agree,plasencia-alma-del-fuego
+band-1e91fd6d61f2.jpg,auto-match,0.99,Padrón,1964 Anniversary Series,padron-1964-anni-belicoso,Padrón,1964 Anni.,brand-agree,padron-1964-anni-belicoso
+band-1f926bc35130.jpg,auto-match,0.99,Flor de Oliva,Maduro,flor-de-oliva-maduro,Flor de Oliva,Maduro,brand-agree,flor-de-oliva-maduro
+band-1f93e72ef918.jpg,auto-match,0.99,BYRON,RESERVA 5 AÑOS,byron-reserva-5-anos,Byron,Reserva 5 Años,brand-agree,byron-reserva-5-anos
+band-1fe41eaa3482.jpg,auto-match,0.904,QUORUM,,quorum-corona,Quorum,Corona,brand-agree,quorum-corona
+band-209a18c58393.jpg,auto-match,0.99,E.P. Carrillo,La Historia,e-p-carrillo-carrillo-la-historia-el-senador,E.P. Carrillo,Carrillo La Historia El Senador,brand-agree,e-p-carrillo-carrillo-la-historia-el-senador
+band-2257545f9bb8.jpg,auto-match,0.99,God of Fire,Aniversario,arturo-fuente-god-of-fire-serie-aniversario,Arturo Fuente,God of Fire Serie Aniversario,brand-DIFF,arturo-fuente-god-of-fire-serie-aniversario
+band-2278197eb3f3.jpg,auto-match,0.99,PLASENCIA,ALMA DEL CAMPO,plasencia-alma-del-campo-madrono-gordo,Plasencia,Alma Del Campo Madrono – Gordo,brand-agree,plasencia-alma-del-campo-madrono-gordo
+band-229300ced0fe.jpg,ambiguous,0.751,Alfonso,Produccion Limitada,fonseca-arana,Fonseca,Arana,brand-DIFF,fonseca-arana
+band-22a137200144.jpg,ambiguous,0.823,Bayou No. 32,Stillwell,dunbarton-tobacco-trust-stillwell-star,Dunbarton Tobacco & Trust,Stillwell Star,brand-DIFF,dunbarton-tobacco-trust-stillwell-star
+band-22e6d72ab45b.jpg,auto-match,0.99,CAO,Surplus Sweet,cao-surplus-sweet-gigante,CAO,Surplus Sweet,brand-agree,cao-surplus-sweet-gigante
+band-23102cbfa001.jpg,auto-match,0.98,MICALLEF,,micallef-cigars-herencia,Micallef,Herencia,brand-agree,micallef-cigars-herencia
+band-24234152e969.jpg,auto-match,0.99,PLASENCIA,ALMA DEL CIELO,plasencia-alma-del-cielo,Plasencia,Alma del Cielo,brand-agree,plasencia-alma-del-cielo
+band-24f7d71a25a2.jpg,auto-match,0.948,ATABEY,,atabey,Atabey,,brand-agree,atabey
+band-24fe1360399e.jpg,auto-match,0.99,Tatuaje,Corojo,tatuaje-corojo,Tatuaje,Corojo,brand-agree,tatuaje-corojo
+band-25692224e00b.jpg,auto-match,0.99,Drew Estate,Feral,liga-privada-unico-feral-flying-pig,Drew Estate,Liga Privada Unico Feral Flying Pig,brand-agree,liga-privada-unico-feral-flying-pig
+band-2583667c5577.jpg,ambiguous,0.757,Rocky Patel,Vintage 1999 Connecticut,rocky-patel-vintage-1999-connecticut-toro,Rocky Patel,Vintage 1999 Connecticut,brand-agree,rocky-patel-vintage-1999-connecticut-toro
+band-25b6b01e2aad.jpg,auto-match,0.98,THE TABERNACLE,HAVANA SEED CT. No. 142,the-tabernacle-havana-seed-ct-142,The Tabernacle,Havana Seed CT 142,brand-agree,the-tabernacle-havana-seed-ct-142
+band-269575affc0d.jpg,auto-match,0.98,PERDOMO,10th Anniversary Maduro,perdomo-10th-anniversary-champagne,Perdomo,10th Anniversary Champagne,brand-agree,perdomo-10th-anniversary-champagne
+band-2705b919bb56.jpg,auto-match,0.98,My Father,,my-father-belicoso,My Father,My Father,brand-agree,my-father-belicoso
+band-28b9e5fb11d2.jpg,auto-match,0.98,My Father,,my-father-belicoso,My Father,My Father,brand-agree,my-father-belicoso
+band-2a10d78680c0.jpg,auto-match,0.98,Padron,Anniversary Series,padron-1964-anniversary-a,Padrón,1964 Anniversary A,brand-DIFF,padron-1964-anniversary-a
+band-2c763b4f3b9b.jpg,auto-match,0.99,MONTECRISTO,WHITE SERIES,montecristo-white-series-belicoso,Montecristo,White Series,brand-agree,montecristo-white-series-belicoso
+band-2cbd440a420c.jpg,auto-match,0.99,ASHTON,VSG Virgin Sun Grown,ashton-virgin-sun-grown,Ashton,Virgin Sun Grown,brand-agree,ashton-virgin-sun-grown
+band-2d4d5cdd5c9c.jpg,auto-match,0.98,Davidoff,,davidoff-primeros,Davidoff,Primeros,brand-agree,davidoff-primeros
+band-2db3ae341f46.jpg,auto-match,0.942,La Galera,Tabacalera Palma,la-galera-1936-box-pressed-chaveta-robusto,La Galera,1936 Box Pressed Chaveta Robusto,brand-agree,la-galera-1936-box-pressed-chaveta-robusto
+band-2dd00bad2c42.jpg,auto-match,0.99,Punch,Rare Corojo,punch-rare-corojo-25th-anniversary,Punch,Rare Corojo 25th Anniversary,brand-agree,punch-rare-corojo-25th-anniversary
+band-2e7d5ed8d0ea.jpg,auto-match,0.98,COHIBA,BLUE,cohiba-robusto-royal,Cohiba,Robusto Royal,brand-agree,cohiba-robusto-royal
+band-2facdfbf0d68.jpg,auto-match,0.99,E.P. Carrillo,Pledge,e-p-carrillo-pledge-connecticut-habano,E.P. Carrillo,Pledge,brand-agree,e-p-carrillo-pledge-connecticut-habano
+band-3073f024b546.jpg,auto-match,0.99,Padron,1964 Anniversary Series,padron-1964-anni-belicoso,Padrón,1964 Anni.,brand-DIFF,padron-1964-anni-belicoso
+band-319850ac6230.jpg,auto-match,0.98,ATABEY,,atabey,Atabey,,brand-agree,atabey
+band-31dd2331eb34.jpg,auto-match,0.98,Drew Estate,Liga Privada No. 9 Oscuro,liga-privada-unico-papas-fritas,Drew Estate,Liga Privada Papas Fritas,brand-agree,liga-privada-unico-papas-fritas
+band-323288fea02e.jpg,ambiguous,0.757,Rocky Patel,Vintage 1990,rocky-patel-vintage-1990,Rocky Patel,Vintage 1990,brand-agree,rocky-patel-vintage-1990
+band-325cdc449281.jpg,auto-match,0.99,ROJAS,BREAKFAST TACOS,rojas-breakfast-tacos,Rojas,Breakfast Tacos,brand-agree,rojas-breakfast-tacos
+band-32f8a1aed0b3.jpg,auto-match,0.99,PLASENCIA,ALMA DEL FUEGO,plasencia-alma-del-fuego,Plasencia,Alma del Fuego,brand-agree,plasencia-alma-del-fuego
+band-331ed1fc7138.jpg,ambiguous,0.679,PLASENCIA,RESERVA ORIGINAL,plasencia-alma-fuerte-sixto-ii,Plasencia,Alma Fuerte Sixto II,brand-agree,plasencia-alma-fuerte-sixto-ii
+band-3356f72455f7.jpg,auto-match,0.948,ATABEY,,atabey,Atabey,,brand-agree,atabey
+band-348ff3a02573.jpg,auto-match,0.99,Alfonso,Gran Selección,alfonso-gran-seleccion,Alfonso,Gran Seleccion,brand-agree,alfonso-gran-seleccion
+band-34ed8b96594e.jpg,ambiguous,0.694,,,foundation-cigar-co-menelik-petite-robusto,Foundation Cigar Co.,Menelik Petite Robusto,,foundation-cigar-co-menelik-petite-robusto
+band-3507969342bd.jpg,auto-match,0.99,BYRON,RESERVA 3 AÑOS,byron-reserva-3-anos,Byron,Reserva 3 Años,brand-agree,byron-reserva-3-anos
+band-359566063ec6.jpg,auto-match,0.99,Rough Rider,Sweet,rough-rider-sweets-maduro,Rough Rider,Sweets Maduro,brand-agree,rough-rider-sweets-maduro
+band-366e3ff3d5ec.jpg,ambiguous,0.628,Rocky Patel,Vintage 1999 Connecticut,l-atelier-extension-de-la-racine-er16,L'Atelier,Extension De La Racine Er16,brand-DIFF,l-atelier-extension-de-la-racine-er16
+band-3685cae2fa13.jpg,auto-match,0.99,Padron,1964 Anniversary Series,padron-1964-anni-belicoso,Padrón,1964 Anni.,brand-DIFF,padron-1964-anni-belicoso
+band-36bc89688cf4.jpg,auto-match,0.98,Red Meat Lover,,red-meat-lovers-by-dunbarton-fritanga,Dunbarton Tobacco & Trust,Red Meat Lovers Fritanga,brand-DIFF,red-meat-lovers-by-dunbarton-fritanga
+band-36e45e2ae9f8.jpg,auto-match,0.948,ATABEY,,atabey,Atabey,,brand-agree,atabey
+band-38466064da2d.jpg,auto-match,0.99,ODYSSEY,CONNECTICUT,odyssey-connecticut,Odyssey,Connecticut,brand-agree,odyssey-connecticut
+band-386d808a589e.jpg,auto-match,0.99,Arturo Fuente,Gran Reserva,arturo-fuente-gran-reserva-rothschild-natural,Arturo Fuente,Gran Reserva Rothschild Natural,brand-agree,arturo-fuente-gran-reserva-rothschild-natural
+band-38a5db2ad838.jpg,auto-match,0.98,Arturo Fuente,Special Selection,arturo-fuente-hemingway-natural,Arturo Fuente,Hemingway Natural,brand-agree,arturo-fuente-hemingway-natural
+band-3ca42cbb417d.jpg,auto-match,0.99,Rocky Patel,Emerald,rocky-patel-emerald,Rocky Patel,Emerald,brand-agree,rocky-patel-emerald
+band-3e3722404dc0.jpg,auto-match,0.99,PLASENCIA,ALMA FUERTE,plasencia-alma-fuerte,Plasencia,Alma Fuerte,brand-agree,plasencia-alma-fuerte
+band-3e9748c31e3b.jpg,ambiguous,0.842,BACCARAT,DOLCE FAR NIENTE,baccarat-nicaragua,Baccarat,Nicaragua,brand-agree,baccarat-nicaragua
+band-3ebbae269c8d.jpg,auto-match,0.891,CRUX,EPICURE,crux-epicure-habano,Crux,Epicure Habano,brand-agree,crux-epicure-habano
+band-3ef94e1e8a4d.jpg,auto-match,0.99,Davidoff,Late Hour,davidoff-winston-churchill-late-hour-toro,Davidoff,Winston Churchill Late Hour,brand-agree,davidoff-winston-churchill-late-hour-toro
+band-3f102f234bcc.jpg,auto-match,0.99,BYRON,RESERVA 4 AÑOS,byron-reserva-4-anos,Byron,Reserva 4 Años,brand-agree,byron-reserva-4-anos
+band-3f1592f37510.jpg,auto-match,0.99,LA PALINA,1948,la-palina-1948,La Palina,1948,brand-agree,la-palina-1948
+band-4007f90c9bae.jpg,auto-match,0.99,El Septimo,Empress of Sheba,el-septimo-empress-of-sheba-toro,El Septimo,Empress Of Sheba Toro,brand-agree,el-septimo-empress-of-sheba-toro
+band-41a66454fa52.jpg,auto-match,0.99,PLASENCIA,ALMA DEL CAMPO,plasencia-alma-del-campo-madrono-gordo,Plasencia,Alma Del Campo Madrono – Gordo,brand-agree,plasencia-alma-del-campo-madrono-gordo
+band-41baeace6806.jpg,auto-match,0.98,My Father,Promesa,my-father-belicoso,My Father,My Father,brand-agree,my-father-belicoso
+band-42425a1e4093.jpg,auto-match,0.99,PLASENCIA,RESERVA ORIGINAL,plasencia-reserva-original-organica-nesticos,Plasencia,Reserva Original,brand-agree,plasencia-reserva-original-organica-nesticos
+band-44005746000d.jpg,auto-match,0.99,Dias de Gloria,Brazil,a-j-fernandez-fernandez-dias-de-gloria-brazil-robusto,A.J. Fernandez,Fernandez Dias De Gloria Brazil Robusto,brand-DIFF,a-j-fernandez-fernandez-dias-de-gloria-brazil-robusto
+band-44f300b8e790.jpg,auto-match,0.99,MONTECRISTO,CLASSIC SERIES,montecristo-classic-series-corona-5-5-44,Montecristo,Classic Series,brand-agree,montecristo-classic-series-corona-5-5-44
+band-4544aee7cd77.jpg,ambiguous,0.842,PLASENCIA,COSECHA 149,plasencia-cosecha-149,Plasencia,Cosecha 149,brand-agree,plasencia-cosecha-149
+band-45548ca3706e.jpg,ambiguous,0.646,Not a cigar band,,foundation-cigar-co-menelik-petite-robusto,Foundation Cigar Co.,Menelik Petite Robusto,brand-DIFF,foundation-cigar-co-menelik-petite-robusto
+band-45cfdd36b403.jpg,auto-match,0.98,ROMA CRAFT,AL PASTOR,roma-craft-craft,RoMa Craft,Craft,brand-agree,roma-craft-craft
+band-462773f5e9b7.jpg,auto-match,0.99,ENCLAVE,BROADLEAF,enclave-broadleaf-belicoso,A.J. Fernandez,Enclave Broadleaf Belicoso,brand-DIFF,enclave-broadleaf-belicoso
+band-4673122b3e39.jpg,auto-match,0.99,OLIVA,Serie V Melanio Gran Reserva Limitada,oliva-serie-v-melanio,Oliva,Serie V Melanio,brand-agree,oliva-serie-v-melanio
+band-47437dc04f00.jpg,auto-match,0.99,ASHTON,Estate Sun Grown,ashton-estate-sun-grown,Ashton,Estate Sun Grown,brand-agree,ashton-estate-sun-grown
+band-481685ccf842.jpg,auto-match,0.98,Drew Estate,Liga Privada No. 9 Oscuro,liga-privada-unico-papas-fritas,Drew Estate,Liga Privada Papas Fritas,brand-agree,liga-privada-unico-papas-fritas
+band-48ad72b52f3c.jpg,auto-match,0.98,Highclere Castle,,highclere-castle-senetjer-perfecto,Highclere Castle,Senetjer Perfecto,brand-agree,highclere-castle-senetjer-perfecto
+band-498d36fbbd03.jpg,auto-match,0.99,Fonseca,Edition MX,fonseca-edition-mx-toro-gordo,Fonseca,Edition Mx Toro Gordo,brand-agree,fonseca-edition-mx-toro-gordo
+band-49c19dd06698.jpg,auto-match,0.99,CAO,Surplus Shade,cao-surplus-shade,CAO,Surplus Shade,brand-agree,cao-surplus-shade
+band-49d8d278799f.jpg,auto-match,0.99,Rocky Patel,Sun Grown Maduro,rocky-patel-sun-grown-maduro,Rocky Patel,Sun Grown Maduro,brand-agree,rocky-patel-sun-grown-maduro
+band-4a6b9bebc8c7.jpg,auto-match,0.99,Rocky Patel,Decade,rocky-patel-decade-10th-anniversary-cigar,Rocky Patel,Decade 10th Anniversary Cigar,brand-agree,rocky-patel-decade-10th-anniversary-cigar
+band-4b03497b7814.jpg,ambiguous,0.763,ASHTON,,ashton-virgin-sun-grown,Ashton,Virgin Sun Grown,brand-agree,ashton-virgin-sun-grown
+band-4c5cba9de91f.jpg,auto-match,0.99,My Father,Le Bijou 1922,my-father-le-bijou-1922-100-anos,My Father,Le Bijou 1922 100 Anos,brand-agree,my-father-le-bijou-1922-100-anos
+band-4c815f968b5b.jpg,auto-match,0.99,BYRON,RESERVA,byron-reserva-3-anos,Byron,Reserva 3 Años,brand-agree,byron-reserva-3-anos
+band-4d92fb26de83.jpg,auto-match,0.99,Liga Privada,No. 9,liga-privada-no-9,Drew Estate,Liga Privada No. 9,brand-DIFF,liga-privada-no-9
+band-4e211d510fb2.jpg,auto-match,0.99,My Father,La Gran Oferta,my-father-la-gran-oferta,My Father,La Gran Oferta,brand-agree,my-father-la-gran-oferta
+band-4f460df93e94.jpg,auto-match,0.99,PLASENCIA,ALMA FUERTE,plasencia-alma-fuerte,Plasencia,Alma Fuerte,brand-agree,plasencia-alma-fuerte
+band-5026718e8147.jpg,ambiguous,0.613,OLMEC,,olmec-maduro,Olmec,Maduro,brand-agree,olmec-maduro
+band-50ccdf0a896c.jpg,auto-match,0.99,MONTECRISTO,1935 ANNIVERSARY NICARAGUA SERIES,montecristo-1935-anniversary-nicaragua-no-2,Montecristo,1935 Anniversary Nicaragua,brand-agree,montecristo-1935-anniversary-nicaragua-no-2
+band-53294edfbb4f.jpg,ambiguous,0.55,"Unclear, possibly Gurkha",,gurkha-royal-challenge-maduro,Gurkha,Royal Challenge Maduro,brand-agree,gurkha-royal-challenge-maduro
+band-536699bf2f75.jpg,auto-match,0.99,Rocky Patel,Special Reserve Sun Grown Maduro,rocky-patel-special-reserve-sun-grown-maduro,Rocky Patel,Special Reserve Sun Grown Maduro,brand-agree,rocky-patel-special-reserve-sun-grown-maduro
+band-558446645fb0.jpg,ambiguous,0.606,VIRTUE,,man-o-war-virtue,Man O' War,Virtue,brand-DIFF,man-o-war-virtue
+band-5638741ddff1.jpg,auto-match,0.99,Padron,1964 Anniversary Series,padron-1964-anni-belicoso,Padrón,1964 Anni.,brand-DIFF,padron-1964-anni-belicoso
+band-56be67005079.jpg,ambiguous,0.789,OSO,PRECIOSOS,alfonso-gran-seleccion-preciosos,Alfonso,Gran Seleccion Preciosos,brand-DIFF,alfonso-gran-seleccion-preciosos
+band-5725f4f8f421.jpg,auto-match,0.98,TABERNACLE,HAVANA SEED CT. NO. 142,the-tabernacle-havana-seed-ct-142,The Tabernacle,Havana Seed CT 142,brand-agree,the-tabernacle-havana-seed-ct-142
+band-5754928e9f35.jpg,auto-match,0.99,BYRON,RESERVA 5 AÑOS,byron-reserva-5-anos,Byron,Reserva 5 Años,brand-agree,byron-reserva-5-anos
+band-5782012faa92.jpg,ambiguous,0.777,OLMEC,,olmec-maduro,Olmec,Maduro,brand-agree,olmec-maduro
+band-57879b094606.jpg,ambiguous,0.656,MBAGO,,dunbarton-tobacco-trust-umbagog-bronzeback-robusto,Dunbarton Tobacco & Trust,Umbagog Bronzeback Robusto,brand-DIFF,dunbarton-tobacco-trust-umbagog-bronzeback-robusto
+band-58411eb580d5.jpg,ambiguous,0.709,Not a cigar band,,camacho-pre-embargo-toro,Camacho,Pre-Embargo Toro,brand-DIFF,camacho-pre-embargo-toro
+band-584cd6ab579f.jpg,auto-match,0.99,Alfonso,Estelares,alfonso-gran-seleccion-estelares,Alfonso,Gran Seleccion Estelares,brand-agree,alfonso-gran-seleccion-estelares
+band-58fb96c1b244.jpg,auto-match,0.99,PLASENCIA,COSECHA 151,plasencia-cosecha-151-la-musica,Plasencia,Cosecha 151 La Musica,brand-agree,plasencia-cosecha-151-la-musica
+band-597548d665ac.jpg,auto-match,0.99,MONTECRISTO,1935 ANNIVERSARY NICARAGUA SERIES,montecristo-1935-anniversary-nicaragua,Montecristo,1935 Anniversary Nicaragua,brand-agree,montecristo-1935-anniversary-nicaragua
+band-5d33a0fea8b8.jpg,auto-match,0.99,PLASENCIA,ALMA FUERTE,plasencia-alma-fuerte,Plasencia,Alma Fuerte,brand-agree,plasencia-alma-fuerte
+band-5d976831221c.jpg,auto-match,0.858,DO NOT DISTURB,,alec-bradley-do-not-disturb,Alec Bradley,Do Not Disturb,brand-DIFF,alec-bradley-do-not-disturb
+band-5dcfe1b6f5c9.jpg,auto-match,0.98,Macanudo,,m-by-macanudo-toro,Macanudo,By Macanudo,brand-agree,m-by-macanudo-toro
+band-5e70f1107c78.jpg,auto-match,0.99,E.P. Carrillo,Encore,ep-carrillo-encore-black,E.P. Carrillo,Encore Black,brand-agree,ep-carrillo-encore-black
+band-60c0e4e20edf.jpg,auto-match,0.99,MONTECRISTO,CLASSIC SERIES,montecristo-classic-series-corona-5-5-44,Montecristo,Classic Series,brand-agree,montecristo-classic-series-corona-5-5-44
+band-60d058e23a58.jpg,auto-match,0.99,BOLIVAR,ANIVERSARIO,bolivar-aniversario,Bolivar,Aniversario,brand-agree,bolivar-aniversario
+band-63a71325ecf8.jpg,auto-match,0.98,God of Fire,KBP Special Reserve,god-of-fire-by-don-carlos,God of Fire,God of Fire,brand-agree,god-of-fire-by-don-carlos
+band-63c54a40eb78.jpg,auto-match,0.99,HIGHCLERE CASTLE,Victorian,highclere-castle-victorian-robusto,Highclere Castle,Victorian,brand-agree,highclere-castle-victorian-robusto
+band-63cbc52c9cfc.jpg,auto-match,0.99,Tatuaje,Tuxtla,tatuaje-avion-13-tuxtla,Tatuaje,Avion 13 Tuxtla,brand-agree,tatuaje-avion-13-tuxtla
+band-6427551a8fa1.jpg,auto-match,0.99,Padrón,1964 Anniversary Series,padron-1964-anni-belicoso,Padrón,1964 Anni.,brand-agree,padron-1964-anni-belicoso
+band-645f037002c0.jpg,auto-match,0.99,Rocky Patel,Vintage 1990,rocky-patel-vintage-1990,Rocky Patel,Vintage 1990,brand-agree,rocky-patel-vintage-1990
+band-664ff641df9e.jpg,auto-match,0.99,MONTECRISTO,WHITE SERIES,montecristo-white-series-belicoso,Montecristo,White Series,brand-agree,montecristo-white-series-belicoso
+band-669a27a48f69.jpg,auto-match,0.99,MONTECRISTO,CLASSIC SERIES,montecristo-classic-series-corona-5-5-44,Montecristo,Classic Series,brand-agree,montecristo-classic-series-corona-5-5-44
+band-670a5079ad7c.jpg,ambiguous,0.838,"Unclear, possibly ""LUCI""",,private-stock,Private,Stock,brand-DIFF,private-stock
+band-67259da0d17d.jpg,auto-match,0.99,Man O' War,Virtue,man-o-war-virtue,Man O' War,Virtue,brand-agree,man-o-war-virtue
+band-680271e09409.jpg,ambiguous,0.759,Corojo,,2012-by-oscar-sixty-corojo,2012,Sixty Corojo,brand-DIFF,2012-by-oscar-sixty-corojo
+band-698ca4866785.jpg,auto-match,0.99,ROJAS,BREAKFAST TACO,rojas-breakfast-tacos,Rojas,Breakfast Tacos,brand-agree,rojas-breakfast-tacos
+band-6a13ecde0749.jpg,auto-match,0.98,MAYFLOWER,,mayflower-dusk-toro,Mayflower,Dusk,brand-agree,mayflower-dusk-toro
+band-6a36fc716a4d.jpg,ambiguous,0.752,,,gurkha-park-avenue,Gurkha,Park Avenue,,gurkha-park-avenue
+band-6be22b6b313b.jpg,auto-match,0.99,JOYA DE NICARAGUA,CLÁSICO MEDIO SIGLO,cohiba-medio-siglo,Cohiba,Medio Siglo,brand-DIFF,cohiba-medio-siglo
+band-6e3115442ccc.jpg,auto-match,0.99,Jaime Garcia,Reserva Especial,jaime-garcia-reserva-especial-churchill-connecticut,Jaime Garcia,Reserva Especial Churchill Connecticut,brand-agree,jaime-garcia-reserva-especial-churchill-connecticut
+band-6ec0a26850fa.jpg,auto-match,0.99,Padron,Family Reserve,padron-family-reserve,Padrón,Family Reserve,brand-DIFF,padron-family-reserve
+band-714defcef2d4.jpg,auto-match,0.99,Plasencia,Alma Fuerte,plasencia-alma-fuerte,Plasencia,Alma Fuerte,brand-agree,plasencia-alma-fuerte
+band-71b6e42ef9fb.jpg,auto-match,0.99,Nub,Nuance,nub-nuance-triple-roast,Nub,Nuance Triple Roast,brand-agree,nub-nuance-triple-roast
+band-71e147bf6850.jpg,auto-match,0.934,ATABEY,,atabey,Atabey,,brand-agree,atabey
+band-722471ebcb71.jpg,ambiguous,0.842,OLIVA,Serie V Melanio Gran Reserva Limitada,oliva-serie-v-melanio,Oliva,Serie V Melanio,brand-agree,oliva-serie-v-melanio
+band-7229f90026e9.jpg,auto-match,0.99,Rough Rider,Sweets,rough-rider-sweets-robusto,Rough Rider,Sweets,brand-agree,rough-rider-sweets-robusto
+band-7326bdc92d57.jpg,auto-match,0.99,ASHTON,Estate Sun Grown,ashton-estate-sun-grown,Ashton,Estate Sun Grown,brand-agree,ashton-estate-sun-grown
+band-7358a4a776dd.jpg,ambiguous,0.707,Linaje,Corojo,carlos-torano-exodus-gold-1959-churchill,Carlos Torano,Exodus Gold 1959 Churchill,brand-DIFF,carlos-torano-exodus-gold-1959-churchill
+band-73931c10b210.jpg,low-confidence,0.416,Image is too blurry to identify a brand.,,liga-privada-unico-bakkwa,Drew Estate,Liga Privada Unico Bakkwa,brand-DIFF,liga-privada-unico-bakkwa
+band-73cd8cddfd09.jpg,auto-match,0.891,The Wise Man,,foundation-cigar-co-the-wise-man-maduro,Foundation Cigar Co.,The Wise Man Maduro,brand-DIFF,foundation-cigar-co-the-wise-man-maduro
+band-743fd68f13b5.jpg,ambiguous,0.545,BLACK DIAMOND,,fonseca-arana,Fonseca,Arana,brand-DIFF,fonseca-arana
+band-74f2a6436b8d.jpg,auto-match,0.98,Flor de Oliva,,flor-de-las-antillas-oliva-gold,Oliva,Flor de Oliva Gold,brand-agree,flor-de-las-antillas-oliva-gold
+band-760b295a8e98.jpg,auto-match,0.99,Joya de Nicaragua,Cinco de Cinco,joya-de-nicaragua-cinco-de-cinco,Joya de Nicaragua,Cinco de Cinco,brand-agree,joya-de-nicaragua-cinco-de-cinco
+band-76792efc3a3b.jpg,auto-match,0.99,Drew Estate,Liga Privada,liga-privada-unico-l40-lancero,Drew Estate,Liga Privada Unico L40 Lancero,brand-agree,liga-privada-unico-l40-lancero
+band-792eedcc4119.jpg,auto-match,0.99,Don Pepin Garcia,Original,don-pepin-garcia-original,Don Pepin Garcia,Original,brand-agree,don-pepin-garcia-original
+band-7af3e640813a.jpg,auto-match,0.99,Liga Privada,T52,liga-privada-t52,Drew Estate,Liga Privada T52,brand-DIFF,liga-privada-t52
+band-7e1400cd3bde.jpg,auto-match,0.99,Liga Privada,No. 9,liga-privada-no-9,Drew Estate,Liga Privada No. 9,brand-DIFF,liga-privada-no-9
+band-7f5c7c44a6c1.jpg,auto-match,0.98,Fratello,,fratello-bianco-iv-sublime,Fratello,Bianco Iv,brand-agree,fratello-bianco-iv-sublime
+band-8087ee252e5e.jpg,auto-match,0.94,ST,,drew-estate-deadwood-tobacco-co-ba,Drew Estate,Deadwood Tobacco Co. Ba,brand-agree,drew-estate-deadwood-tobacco-co-ba
+band-83884dfb64eb.jpg,auto-match,0.99,LA PALINA,BLUE LABEL SUMATRA,601-blue-label,601,Blue Label,brand-DIFF,601-blue-label
+band-858cae72c5be.jpg,auto-match,0.99,Reserva,Broadleaf,camacho-broadleaf,Camacho,Broadleaf,brand-DIFF,camacho-broadleaf
+band-863d76f9d33f.jpg,ambiguous,0.645,Verocu,,e-p-carrillo-inch-nicaragua-60-ring-gauge-vitola,E.P. Carrillo,INCH Nicaragua,brand-DIFF,e-p-carrillo-inch-nicaragua-60-ring-gauge-vitola
+band-872a31927679.jpg,auto-match,0.99,Arturo Fuente,Gran Reserva,arturo-fuente-gran-reserva-rothschild-natural,Arturo Fuente,Gran Reserva Rothschild Natural,brand-agree,arturo-fuente-gran-reserva-rothschild-natural
+band-878a17b1b7dd.jpg,ambiguous,0.648,Image is too blurry to identify text on the band.,,foundation-cigar-co-menelik-petite-robusto,Foundation Cigar Co.,Menelik Petite Robusto,brand-DIFF,foundation-cigar-co-menelik-petite-robusto
+band-87a40f3c35fc.jpg,auto-match,0.99,L'Atelier,La Mission,latelier-la-mission,L'Atelier,La Mission,brand-agree,latelier-la-mission
+band-87fafb64ebf9.jpg,auto-match,0.99,LA PALINA,DOUBLE DIGIT,la-palina-double-digit,La Palina,Double Digit,brand-agree,la-palina-double-digit
+band-88df596770d3.jpg,auto-match,0.99,Punch,Clásico,punch-clasico,Punch,Clasico,brand-agree,punch-clasico
+band-8a48360fed30.jpg,auto-match,0.886,VEGA MAGNA,,manolo-quesada-75th-anniversary,Quesada,Manolo Quesada 75Th Anniversary,brand-DIFF,manolo-quesada-75th-anniversary
+band-8b855967bfb5.jpg,auto-match,0.99,Rocky Patel,Vintage 1992,rocky-patel-vintage-1992,Rocky Patel,Vintage 1992,brand-agree,rocky-patel-vintage-1992
+band-8ba2b6836524.jpg,auto-match,0.98,Drew Estate,Liga Privada No. 9 Oscuro,liga-privada-unico-feral-flying-pig,Drew Estate,Liga Privada Unico Feral Flying Pig,brand-agree,liga-privada-unico-feral-flying-pig
+band-8c57586bbaff.jpg,auto-match,0.98,ASHTON,VSG,ashton-virgin-sun-grown,Ashton,Virgin Sun Grown,brand-agree,ashton-virgin-sun-grown
+band-8e0f7589a9d0.jpg,ambiguous,0.842,LA AROMA DE CUBA,Mi Amor,la-aroma-de-cuba-mi-amor-reserva,La Aroma de Cuba,Mi Amor Reserva,brand-agree,la-aroma-de-cuba-mi-amor-reserva
+band-8f0a30dfb414.jpg,auto-match,0.98,H. Upmann,,h-upmann-by-aj-fernandez,H. Upmann,H. Upmann,brand-agree,h-upmann-by-aj-fernandez
+band-8fbd10ebd3fc.jpg,auto-match,0.99,My Father,The Judge,my-father-father-the-judge-grand-robusto-box-pressed,My Father,Father The Judge Grand Robusto Box Pressed,brand-agree,my-father-father-the-judge-grand-robusto-box-pressed
+band-9061ca862af2.jpg,auto-match,0.99,JAIME GARCIA,Reserva Especial,jaime-garcia-reserva-especial-churchill-connecticut,Jaime Garcia,Reserva Especial Churchill Connecticut,brand-agree,jaime-garcia-reserva-especial-churchill-connecticut
+band-926dc3534ca1.jpg,ambiguous,0.666,Tabacalera Palma,La Jockra,gurkha-master-select-toro,Gurkha,Master Select,brand-DIFF,gurkha-master-select-toro
+band-9277f2fe4fae.jpg,auto-match,0.98,MACANUDO,,m-by-macanudo-toro,Macanudo,By Macanudo,brand-agree,m-by-macanudo-toro
+band-940f7fd15f7c.jpg,auto-match,0.98,ROMEO Y JULIETA,OCHO,edicion-limitada-romeo-y-julieta-churchill,Romeo y Julieta,Limitada Romeo Y Julieta Churchill,brand-agree,edicion-limitada-romeo-y-julieta-churchill
+band-95040cd47124.jpg,ambiguous,0.833,Arturo Fuente,Special Selection,arturo-fuente-hemingway-natural,Arturo Fuente,Hemingway Natural,brand-agree,arturo-fuente-hemingway-natural
+band-95311ebd2ad5.jpg,ambiguous,0.833,Arturo Fuente,,arturo-fuente-hemingway-natural,Arturo Fuente,Hemingway Natural,brand-agree,arturo-fuente-hemingway-natural
+band-96b93771227e.jpg,auto-match,0.99,OLIVA,Serie V Melanio Gran Reserva Limitada,oliva-serie-v-melanio,Oliva,Serie V Melanio,brand-agree,oliva-serie-v-melanio
+band-9790033c13cb.jpg,auto-match,0.99,Drew Estate,UF-13,liga-privada-unico-uf-13-dark,Drew Estate,Liga Privada Unico UF-13 Dark,brand-agree,liga-privada-unico-uf-13-dark
+band-98baa7579d3f.jpg,auto-match,0.99,Davidoff,Dominican Maduro,davidoff-dominican-maduro-primeros,Davidoff,Dominican Maduro Primeros,brand-agree,davidoff-dominican-maduro-primeros
+band-98d48981f422.jpg,ambiguous,0.678,ATABEY,,atabey,Atabey,,brand-agree,atabey
+band-9a1406d70e04.jpg,auto-match,0.99,PLASENCIA,ALMA DEL CAMPO,plasencia-alma-del-campo-madrono-gordo,Plasencia,Alma Del Campo Madrono – Gordo,brand-agree,plasencia-alma-del-campo-madrono-gordo
+band-9ab25ffe5419.jpg,auto-match,0.99,Padron,Damaso,padron-damaso,Padrón,Dámaso,brand-DIFF,padron-damaso
+band-9bc94d375c34.jpg,auto-match,0.99,ENCLAVE,BROADLEAF,enclave-broadleaf-belicoso,A.J. Fernandez,Enclave Broadleaf Belicoso,brand-DIFF,enclave-broadleaf-belicoso
+band-9d6b953fad27.jpg,ambiguous,0.58,,,a-flores-serie-privada-sp-52-capa-maduro,A. Flores,Serie Privada SP 52 Capa Maduro,,a-flores-serie-privada-sp-52-capa-maduro
+band-9ea7a180adff.jpg,auto-match,0.99,PLASENCIA,ALMA FUERTE,plasencia-alma-fuerte,Plasencia,Alma Fuerte,brand-agree,plasencia-alma-fuerte
+band-9f9e8cc0089b.jpg,auto-match,0.99,Padron,1964 Anniversary Series,padron-1964-anni-belicoso,Padrón,1964 Anni.,brand-DIFF,padron-1964-anni-belicoso
+band-a071e2399934.jpg,ambiguous,0.833,LA PALINA,,la-palina-el-ano-1896-oscuro,La Palina,El Ano 1896 Oscuro,brand-agree,la-palina-el-ano-1896-oscuro
+band-a0e666f73875.jpg,auto-match,0.99,E.P. Carrillo,Allegiance,ep-carrillo-allegiance-confidant-toro,E.P. Carrillo,Allegiance Confidant Toro,brand-agree,ep-carrillo-allegiance-confidant-toro
+band-a160532a7f15.jpg,auto-match,0.99,PLASENCIA,COSECHA 149,plasencia-cosecha-149,Plasencia,Cosecha 149,brand-agree,plasencia-cosecha-149
+band-a2134fdf2d42.jpg,auto-match,0.99,ODYSSEY,HABANO,odyssey-habano,Odyssey,Habano,brand-agree,odyssey-habano
+band-a2a3698cbeb8.jpg,auto-match,0.99,Don Pepin Garcia,Original,don-pepin-garcia-original,Don Pepin Garcia,Original,brand-agree,don-pepin-garcia-original
+band-a3acc3e6bf6e.jpg,auto-match,0.98,MAYFLOWER,,mayflower-dusk-toro,Mayflower,Dusk,brand-agree,mayflower-dusk-toro
+band-a3bff1b76e59.jpg,auto-match,0.99,My Father,Garcia & Garcia,my-father-garcia-garcia-toro-deluxe,My Father,Garcia & Garcia Toro Deluxe,brand-agree,my-father-garcia-garcia-toro-deluxe
+band-a54240c2ea39.jpg,auto-match,0.99,PLASENCIA,ALMA FUERTE,plasencia-alma-fuerte,Plasencia,Alma Fuerte,brand-agree,plasencia-alma-fuerte
+band-a6d5c988b96e.jpg,auto-match,0.99,Flor de las Antillas,Sun Grown,alec-bradley-sun-grown,Alec Bradley,Sun Grown,brand-DIFF,alec-bradley-sun-grown
+band-a9f93824b4db.jpg,auto-match,0.99,Padrón,1964 Anniversary Series Presidente Natural,padron-1964-anni-belicoso,Padrón,1964 Anni.,brand-agree,padron-1964-anni-belicoso
+band-adaf5e4056d4.jpg,auto-match,0.873,ROCKY PATEL,Vintage 1999 Connecticut,caribe-deluxe,Caribe,Deluxe,brand-DIFF,caribe-deluxe
+band-ae09c419abf7.jpg,auto-match,0.98,LAS CALAVERAS,,crowned-heads-las-calaveras,Crowned Heads,Las Calaveras,brand-DIFF,crowned-heads-las-calaveras
+band-af672cb0f141.jpg,auto-match,0.98,CASA MAGNA,,casa-de-garcia-casa-magna-d-magnus-ii-tiberius,Casa de Garcia,Casa Magna D. Magnus II Tiberius,brand-DIFF,casa-de-garcia-casa-magna-d-magnus-ii-tiberius
+band-b0b12b3d32c9.jpg,auto-match,0.99,ASHTON,SYMMETRY,ashton-symmetry,Ashton,Symmetry,brand-agree,ashton-symmetry
+band-b2355c8be4eb.jpg,auto-match,0.99,ODYSSEY,MADURO,odyssey-maduro,Odyssey,Maduro,brand-agree,odyssey-maduro
+band-b31be1862e38.jpg,auto-match,0.99,Arturo Fuente,Lost City,arturo-fuente-opus-x-lost-city,Arturo Fuente,Opus X Lost City,brand-agree,arturo-fuente-opus-x-lost-city
+band-b38466364693.jpg,auto-match,0.99,E.P. Carrillo,La Historia,e-p-carrillo-carrillo-la-historia-el-senador,E.P. Carrillo,Carrillo La Historia El Senador,brand-agree,e-p-carrillo-carrillo-la-historia-el-senador
+band-b3944a44d3aa.jpg,auto-match,0.99,E.P. Carrillo,La Historia,e-p-carrillo-carrillo-la-historia-el-senador,E.P. Carrillo,Carrillo La Historia El Senador,brand-agree,e-p-carrillo-carrillo-la-historia-el-senador
+band-b538cff09e78.jpg,ambiguous,0.806,Allegiance,,allegiance-by-e-p-carrillo-sidekick,Allegiance,Sidekick,brand-agree,allegiance-by-e-p-carrillo-sidekick
+band-b5810dc8d055.jpg,auto-match,0.98,Crowned Heads,TBA Exclusive 2020,crowned-heads-four-kicks-mule-kick-le-2020,Crowned Heads,Four Kicks Mule Kick Le 2020,brand-agree,crowned-heads-four-kicks-mule-kick-le-2020
+band-b673451f19e5.jpg,auto-match,0.99,CAO,BRAZILIA,cao-brazilia-cariocas,CAO,Brazilia Cariocas,brand-agree,cao-brazilia-cariocas
+band-b6ea72a8eee0.jpg,ambiguous,0.846,"Unclear, possibly H. Upmann",,h-upmann-by-aj-fernandez,H. Upmann,H. Upmann,brand-agree,h-upmann-by-aj-fernandez
+band-b729b1b219d9.jpg,auto-match,0.99,My Father,The Judge,my-father-father-the-judge-grand-robusto-box-pressed,My Father,Father The Judge Grand Robusto Box Pressed,brand-agree,my-father-father-the-judge-grand-robusto-box-pressed
+band-b80b2560f251.jpg,auto-match,0.98,Indian Motorcycle,,indian-motorcycle-cigars-125th-anniversary,Indian Motorcycle Cigars,125th Anniversary,brand-agree,indian-motorcycle-cigars-125th-anniversary
+band-b95d5f6a5d53.jpg,auto-match,0.99,Joya de Nicaragua,Antaño CT,joya-de-nicaragua-antano,Joya de Nicaragua,Antano,brand-agree,joya-de-nicaragua-antano
+band-ba46cac7939b.jpg,auto-match,0.99,QUORUM,SHADE,quorum-shade,Quorum,Shade,brand-agree,quorum-shade
+band-ba65b7089747.jpg,auto-match,0.99,PLASENCIA,ALMA FUERTE,plasencia-alma-fuerte,Plasencia,Alma Fuerte,brand-agree,plasencia-alma-fuerte
+band-bb88cb65d01e.jpg,auto-match,0.99,My Father,Garcia & Garcia,my-father-garcia-garcia-toro-deluxe,My Father,Garcia & Garcia Toro Deluxe,brand-agree,my-father-garcia-garcia-toro-deluxe
+band-bc17f0690118.jpg,auto-match,0.99,Tatuaje,Corojo,tatuaje-corojo,Tatuaje,Corojo,brand-agree,tatuaje-corojo
+band-bce8ee114609.jpg,auto-match,0.99,My Father,Le Bijou 1922,my-father-le-bijou-1922-100-anos,My Father,Le Bijou 1922 100 Anos,brand-agree,my-father-le-bijou-1922-100-anos
+band-bcfb396c977b.jpg,auto-match,0.99,Arturo Fuente,Lost City,arturo-fuente-opus-x-lost-city,Arturo Fuente,Opus X Lost City,brand-agree,arturo-fuente-opus-x-lost-city
+band-bd15059e3708.jpg,ambiguous,0.799,THE WISE MAN,,foundation-cigar-co-the-wise-man-maduro,Foundation Cigar Co.,The Wise Man Maduro,brand-DIFF,foundation-cigar-co-the-wise-man-maduro
+band-be15709d5d81.jpg,auto-match,0.98,ATABEY,,atabey,Atabey,,brand-agree,atabey
+band-bef0c7bee2d5.jpg,auto-match,0.99,MONTECRISTO,CLASSIC SERIES,montecristo-classic-series-corona-5-5-44,Montecristo,Classic Series,brand-agree,montecristo-classic-series-corona-5-5-44
+band-bf8e9996fa61.jpg,ambiguous,0.634,The image is too blurry to identify any text on the cigar band.,,g-a-r-by-george-rico,G.A.R.,By George Rico,brand-agree,g-a-r-by-george-rico
+band-c02d8c5e1e57.jpg,auto-match,0.99,Rocky Patel,Decade,rocky-patel-decade-10th-anniversary-cigar,Rocky Patel,Decade 10th Anniversary Cigar,brand-agree,rocky-patel-decade-10th-anniversary-cigar
+band-c0a120f90d77.jpg,auto-match,0.99,CLE,Connecticut,cle-connecticut-corona,CLE,Connecticut,brand-agree,cle-connecticut-corona
+band-c10127ccd978.jpg,ambiguous,0.671,Image is too blurry to identify text on the band.,,stillwell-star,Stillwell Star,,brand-DIFF,stillwell-star
+band-c1e9c227ab9b.jpg,auto-match,0.98,NEW WORLD,,a-j-fernandez-new-world,A.J. Fernandez,New World,brand-DIFF,a-j-fernandez-new-world
+band-c35e03da6415.jpg,auto-match,0.99,ROJAS,BREAKFAST TACO,rojas-breakfast-tacos,Rojas,Breakfast Tacos,brand-agree,rojas-breakfast-tacos
+band-c3d32d20bfdc.jpg,auto-match,0.99,BYRON,RESERVA 4 AÑOS,byron-reserva-4-anos,Byron,Reserva 4 Años,brand-agree,byron-reserva-4-anos
+band-c3f815b65145.jpg,auto-match,0.99,My Father,The Judge,my-father-father-the-judge-grand-robusto-box-pressed,My Father,Father The Judge Grand Robusto Box Pressed,brand-agree,my-father-father-the-judge-grand-robusto-box-pressed
+band-c418a77d06c1.jpg,auto-match,0.98,THE WISE MAN,,foundation-cigar-co-the-wise-man-maduro,Foundation Cigar Co.,The Wise Man Maduro,brand-DIFF,foundation-cigar-co-the-wise-man-maduro
+band-c512a330ea20.jpg,auto-match,0.98,NEW WORLD,,a-j-fernandez-new-world,A.J. Fernandez,New World,brand-DIFF,a-j-fernandez-new-world
+band-c5b1de6b5f07.jpg,auto-match,0.98,Rocky Patel,Emerald,sixty-by-rocky-patel-toro,Rocky Patel,Rocky Patel,brand-agree,sixty-by-rocky-patel-toro
+band-c6651f732a3a.jpg,auto-match,0.99,THE TABERNACLE,DAVID,the-tabernacle-david,Foundation Cigar Co.,The Tabernacle David,brand-DIFF,the-tabernacle-david
+band-c6b926dbf385.jpg,ambiguous,0.645,,,eiroa-the-first-20-years-colorado,Eiroa,The First 20 Years Colorado,,eiroa-the-first-20-years-colorado
+band-c6c7acf27eb1.jpg,auto-match,0.98,Tatuaje,,tatuaje-cabaiguan,Tatuaje,Cabaiguan,brand-agree,tatuaje-cabaiguan
+band-c6dc8eda2a03.jpg,auto-match,0.891,CRUX,GUILD,crux-guild,Crux,Guild,brand-agree,crux-guild
+band-c8255b241ad6.jpg,auto-match,0.99,Drew Estate,Undercrown,undercrown-maduro,Drew Estate,Undercrown Maduro,brand-agree,undercrown-maduro
+band-c8448656fcde.jpg,auto-match,0.98,Padron,Anniversary Series,padron-1964-anniversary-a,Padrón,1964 Anniversary A,brand-DIFF,padron-1964-anniversary-a
+band-c98ff12d142a.jpg,ambiguous,0.838,Escasos,,diesel-disciple,Diesel,Disciple,brand-DIFF,diesel-disciple
+band-c9944212a7b7.jpg,auto-match,0.99,Rough Rider,Sweets,rough-rider-sweets-robusto,Rough Rider,Sweets,brand-agree,rough-rider-sweets-robusto
+band-ca76a0fa5918.jpg,auto-match,0.98,Macanudo,,m-by-macanudo-toro,Macanudo,By Macanudo,brand-agree,m-by-macanudo-toro
+band-ca7d9abe7360.jpg,auto-match,0.99,PLASENCIA,RESERVA ORIGINAL,plasencia-reserva-original-organica-nesticos,Plasencia,Reserva Original,brand-agree,plasencia-reserva-original-organica-nesticos
+band-cb1e7d61fcff.jpg,auto-match,0.99,Aganorsa Leaf,International Supreme Leaf,aganorsa-leaf-supreme-leaf-toro,Aganorsa Leaf,Supreme Leaf,brand-agree,aganorsa-leaf-supreme-leaf-toro
+band-cb565dd97a14.jpg,auto-match,0.99,Tatuaje,Cojonu 2012,tatuaje-cojonu-2012-tuxtla,Tatuaje,Cojonu 2012 Tuxtla,brand-agree,tatuaje-cojonu-2012-tuxtla
+band-cc462c4ba040.jpg,auto-match,0.99,Romeo y Julieta,Medallas de Oro,romeo-y-julieta-vintage-vi-medallas-de-oro,Romeo y Julieta,Vintage VI (Medallas de Oro),brand-agree,romeo-y-julieta-vintage-vi-medallas-de-oro
+band-cd586671a88a.jpg,auto-match,0.98,THE TABERNACLE,HAVANA CT NO. 142,the-tabernacle-broadleaf-goliath-perfecto,The Tabernacle,Broadleaf Goliath,brand-agree,the-tabernacle-broadleaf-goliath-perfecto
+band-d16afc9447ee.jpg,auto-match,0.965,ESTELI-RECARGADO,OLMEC,foundation-cigar-co-olmec,Foundation Cigar Co.,Olmec,brand-DIFF,foundation-cigar-co-olmec
+band-d16f6d5b7361.jpg,auto-match,0.98,Padrón,Anniversary Series,padron-1926-serie-no-35-natural,Padrón,1926 Serie No. 35 Natural,brand-agree,padron-1926-serie-no-35-natural
+band-d1ee91bcf6a8.jpg,auto-match,0.99,Padrón,1964 Anniversary Series,padron-1964-anni-belicoso,Padrón,1964 Anni.,brand-agree,padron-1964-anni-belicoso
+band-d2152b00a602.jpg,auto-match,0.99,Rocky Patel,Gold Label,rocky-patel-gold-label,Rocky Patel,Gold Label,brand-agree,rocky-patel-gold-label
+band-d2304c1d3b6b.jpg,auto-match,0.99,Rough Rider,Sweets,rough-rider-sweets-robusto,Rough Rider,Sweets,brand-agree,rough-rider-sweets-robusto
+band-d2baeed03251.jpg,auto-match,0.925,KINTSUGI,SABI,alec-bradley-kintsugi-wabi-sabi,Alec Bradley,Black Market Kintsugi Wabi Sabi,brand-DIFF,alec-bradley-kintsugi-wabi-sabi
+band-d48a51de5109.jpg,auto-match,0.99,OLIVA,Serie V Melanio Maduro,oliva-serie-v-melanio-maduro-churchill,Oliva,Serie V Melanio Maduro,brand-agree,oliva-serie-v-melanio-maduro-churchill
+band-d4e4a84cddac.jpg,auto-match,0.99,Montecristo,Classic Series,montecristo-classic-series-corona-5-5-44,Montecristo,Classic Series,brand-agree,montecristo-classic-series-corona-5-5-44
+band-d5109c8fe57a.jpg,auto-match,0.99,Alec Bradley,Safe Keepings,alec-bradley-safe-keepings,Alec Bradley,Safe Keepings,brand-agree,alec-bradley-safe-keepings
+band-d52a0cb438b1.jpg,auto-match,0.99,COCO,ALEXANDRA COLLECTION,el-septimo-alexandra-collection,El Septimo,Alexandra Collection,brand-DIFF,el-septimo-alexandra-collection
+band-d59b4c5c260c.jpg,auto-match,0.99,Arturo Fuente,Gran Reserva,arturo-fuente-gran-reserva-rothschild-natural,Arturo Fuente,Gran Reserva Rothschild Natural,brand-agree,arturo-fuente-gran-reserva-rothschild-natural
+band-d610676b30e5.jpg,auto-match,0.99,PLASENCIA,ALMA FUERTE,plasencia-alma-fuerte,Plasencia,Alma Fuerte,brand-agree,plasencia-alma-fuerte
+band-d761f4025818.jpg,auto-match,0.98,Black Diamond,,diamond-crown-black-diamond,Diamond Crown,Black Diamond,brand-DIFF,diamond-crown-black-diamond
+band-d7d90c1b3669.jpg,auto-match,0.99,Arturo Fuente,Gran Reserva,arturo-fuente-gran-reserva-rothschild-natural,Arturo Fuente,Gran Reserva Rothschild Natural,brand-agree,arturo-fuente-gran-reserva-rothschild-natural
+band-d81d17012b33.jpg,auto-match,0.98,LA FLOR DOMINICANA,,la-flor-dominicana-1994,La Flor Dominicana,1994,brand-agree,la-flor-dominicana-1994
+band-d9af97984c15.jpg,auto-match,0.99,La Gloria Cubana,Medio Tiempo,la-gloria-cubana-medio-tiempo-robusto,La Gloria Cubana,Medio Tiempo,brand-agree,la-gloria-cubana-medio-tiempo-robusto
+band-d9dc18cec566.jpg,auto-match,0.99,Arturo Fuente,Gran Reserva,arturo-fuente-gran-reserva-rothschild-natural,Arturo Fuente,Gran Reserva Rothschild Natural,brand-agree,arturo-fuente-gran-reserva-rothschild-natural
+band-da19fc25bda4.jpg,auto-match,0.948,ATABEY,,atabey,Atabey,,brand-agree,atabey
+band-da2a84d42a47.jpg,auto-match,0.99,OLIVA,Serie V Melanio Gran Reserva Limitada,oliva-serie-v-melanio,Oliva,Serie V Melanio,brand-agree,oliva-serie-v-melanio
+band-dbd27aeca675.jpg,ambiguous,0.798,HAVANA Q,,havana-q-double-grande,Havana,Q Double Grande,brand-agree,havana-q-double-grande
+band-dc59f78b0a60.jpg,auto-match,0.98,God of Fire,KBP Special Reserve,god-of-fire-by-don-carlos,God of Fire,God of Fire,brand-agree,god-of-fire-by-don-carlos
+band-dc73616291ec.jpg,low-confidence,0.487,Image is too blurry to identify a brand.,,g-a-r-by-george-rico,G.A.R.,By George Rico,brand-DIFF,g-a-r-by-george-rico
+band-dc7b47884056.jpg,ambiguous,0.514,Image is too blurry to identify text on the band.,,fonseca-arana,Fonseca,Arana,brand-DIFF,fonseca-arana
+band-dc895a965dfd.jpg,auto-match,0.99,MONTECRISTO,CLASSIC SERIES,montecristo-classic-series-corona-5-5-44,Montecristo,Classic Series,brand-agree,montecristo-classic-series-corona-5-5-44
+band-dd602f2a97dd.jpg,auto-match,0.99,La Flor Dominicana,Suave,la-flor-dominicana-suave,La Flor Dominicana,Suave,brand-agree,la-flor-dominicana-suave
+band-ddbcaf13320b.jpg,auto-match,0.99,BANDOLERO,SERIE C CLANDESTINOS,bandolero-clandestinos,Bandolero,Clandestinos,brand-agree,bandolero-clandestinos
+band-dde86e3e281f.jpg,auto-match,0.99,Tatuaje,Cojonu 2012,tatuaje-nicaragua-cojonu-2012,Tatuaje,Nicaragua Cojonu 2012,brand-agree,tatuaje-nicaragua-cojonu-2012
+band-ddfc9575ddae.jpg,auto-match,0.98,H. Upmann,,h-upmann-by-aj-fernandez,H. Upmann,H. Upmann,brand-agree,h-upmann-by-aj-fernandez
+band-de610221a363.jpg,auto-match,0.98,My Father,La Promesa,my-father-belicoso,My Father,My Father,brand-agree,my-father-belicoso
+band-decf8a46bf15.jpg,auto-match,0.99,Oliva,Serie V Melanio Gran Reserva Limitada,oliva-serie-v-melanio,Oliva,Serie V Melanio,brand-agree,oliva-serie-v-melanio
+band-df13128b795f.jpg,ambiguous,0.822,OLMEC,ESTELI-NICARAGUA,foundation-cigar-co-olmec,Foundation Cigar Co.,Olmec,brand-DIFF,foundation-cigar-co-olmec
+band-dfd1dac9b6ff.jpg,auto-match,0.99,Perdomo,10th Anniversary Champagne,perdomo-10th-anniversary-champagne,Perdomo,10th Anniversary Champagne,brand-agree,perdomo-10th-anniversary-champagne
+band-dfff0b9f6f86.jpg,auto-match,0.98,THE TABERNACLE,HAVANA SEED CT - NO. 142,the-tabernacle-havana-seed-ct-142,The Tabernacle,Havana Seed CT 142,brand-agree,the-tabernacle-havana-seed-ct-142
+band-e03be4074e49.jpg,auto-match,0.99,BYRON,RESERVA 5 AÑOS,byron-reserva-5-anos,Byron,Reserva 5 Años,brand-agree,byron-reserva-5-anos
+band-e053cf4f0fa0.jpg,auto-match,0.99,Graycliff,10 Year Vintage,graycliff-10-year-vintage,Graycliff,10 Year Vintage,brand-agree,graycliff-10-year-vintage
+band-e22866f7fa99.jpg,ambiguous,0.736,FLORES Y RODRIGUEZ,MICHAEL'S EXCLUSIVE,flores-y-rodriguez-connecticut-valley-reserve-azul,Flores y Rodriguez,Connecticut Valley Reserve Azul,brand-agree,flores-y-rodriguez-connecticut-valley-reserve-azul
+band-e2bbcde8e65a.jpg,auto-match,0.99,Padron,Damaso,padron-damaso,Padrón,Dámaso,brand-DIFF,padron-damaso
+band-e2e30b6d5738.jpg,auto-match,0.98,Padrón,Anniversary Series,padron-1926-serie-no-35-natural,Padrón,1926 Serie No. 35 Natural,brand-agree,padron-1926-serie-no-35-natural
+band-e30f82ff0479.jpg,ambiguous,0.757,La Fontana,Vintage,la-fontana-vintage,La Fontana,Vintage,brand-agree,la-fontana-vintage
+band-e3c3e7f2f09a.jpg,auto-match,0.99,CAO,Flathead 554,cao-flathead,CAO,Flathead,brand-agree,cao-flathead
+band-e66be8cb0e52.jpg,auto-match,0.99,SURPLUS,SWEET,cao-surplus-sweet,CAO,Surplus Sweet,brand-DIFF,cao-surplus-sweet
+band-e67f8315cd55.jpg,auto-match,0.99,God of Fire,Serie,god-of-fire-serie-aniversario,God of Fire,Serie Aniversario,brand-agree,god-of-fire-serie-aniversario
+band-e9c633823b75.jpg,auto-match,0.99,Byron,Seleccion 1850,byron-1850,Byron,1850,brand-agree,byron-1850
+band-eada3ead49d8.jpg,ambiguous,0.72,TACOS &,BARBACOA,rojas-street-tacos-barbacoa,Rojas,Street Tacos Barbacoa,brand-DIFF,rojas-street-tacos-barbacoa
+band-ecbc10b9a8b0.jpg,auto-match,0.99,MONTECRISTO,CLASSIC SERIES,montecristo-classic-series-corona-5-5-44,Montecristo,Classic Series,brand-agree,montecristo-classic-series-corona-5-5-44
+band-edc61e89490d.jpg,auto-match,0.99,Joya de Nicaragua,Cinco Décadas,joya-de-nicaragua-cinco-decadas-el-doctor-belicoso,Joya de Nicaragua,Cinco Decadas El Doctor,brand-agree,joya-de-nicaragua-cinco-decadas-el-doctor-belicoso
+band-edf408a15554.jpg,auto-match,0.862,THE TABERNACLE,,foundation-cigar-co-the-tabernacle-churchill,Foundation Cigar Co.,The Tabernacle,brand-DIFF,foundation-cigar-co-the-tabernacle-churchill
+band-ee2f7edee769.jpg,auto-match,0.99,EIROA,DARK,eiroa-dark,Eiroa,Dark,brand-agree,eiroa-dark
+band-eeeb11eaed5f.jpg,auto-match,0.98,Arturo Fuente,OpusX Lost City,fuente-fuente-opusx,Arturo Fuente,Fuente Fuente OpusX,brand-agree,fuente-fuente-opusx
+band-ef0335daa0f1.jpg,auto-match,0.99,Padron,1926 Serie,padron-1926-serie,Padrón,1926 Serie,brand-DIFF,padron-1926-serie
+band-f02a92cefaa4.jpg,auto-match,0.99,Flathead,Speed Shop Habano,cao-speed-shop,CAO,Speed Shop,brand-DIFF,cao-speed-shop
+band-f06cfe699621.jpg,auto-match,0.98,God of Fire,,angelenos-by-god-of-fire,God of Fire,Angelenos,brand-agree,angelenos-by-god-of-fire
+band-f14d7352de3a.jpg,ambiguous,0.602,MBAGO,,tiago-clasico-natural,Tiago,Clasico Natural,brand-DIFF,tiago-clasico-natural
+band-f3a828769561.jpg,auto-match,0.898,ASHTON,,ashton-virgin-sun-grown,Ashton,Virgin Sun Grown,brand-agree,ashton-virgin-sun-grown
+band-f3a9cccb9780.jpg,auto-match,0.99,Padrón,1926 Serie,padron-1926-serie-no-35-natural,Padrón,1926 Serie No. 35 Natural,brand-agree,padron-1926-serie-no-35-natural
+band-f3d9a59b997a.jpg,auto-match,0.98,God of Fire,Serie 2020,god-of-fire-by-don-carlos,God of Fire,God of Fire,brand-agree,god-of-fire-by-don-carlos
+band-f3f7b1bfb153.jpg,auto-match,0.98,SOUTHERN DRAW,JACOBS LADDER BRIMSTONE,southern-draw-quickdraw-connecticut-corona-gorda,Southern Draw,Quickdraw Connecticut Corona Gorda,brand-agree,southern-draw-quickdraw-connecticut-corona-gorda
+band-f5d1034e3195.jpg,auto-match,0.99,PLASENCIA,ALMA FUERTE,plasencia-alma-fuerte,Plasencia,Alma Fuerte,brand-agree,plasencia-alma-fuerte
+band-f7b129610bb6.jpg,ambiguous,0.842,E.P. Carrillo,Endure,ep-carrillo-endure,E.P. Carrillo,Endure,brand-agree,ep-carrillo-endure
+band-f7b8df46e91e.jpg,auto-match,0.98,Arturo Fuente,Special,arturo-fuente-hemingway-best-seller-maduro,Arturo Fuente,Hemingway Best Seller Maduro,brand-agree,arturo-fuente-hemingway-best-seller-maduro
+band-f7ee1c156bb6.jpg,ambiguous,0.818,Undercrown,,undercrown-10,Drew Estate,Undercrown 10,brand-DIFF,undercrown-10
+band-f7fd49b71c45.jpg,ambiguous,0.678,CAMACHO,,camacho-bg-meyer-standard-issue,Camacho,Bg Meyer Standard Issue,brand-agree,camacho-bg-meyer-standard-issue
+band-f81831b66f25.jpg,auto-match,0.99,CAO,Surplus Maduro,cao-surplus-maduro,CAO,Surplus Maduro,brand-agree,cao-surplus-maduro
+band-f8fa4b900e54.jpg,auto-match,0.99,My Father,La Gran Oferta,my-father-la-gran-oferta-toro,My Father,La Gran Oferta,brand-agree,my-father-la-gran-oferta-toro
+band-fb32e169d80f.jpg,auto-match,0.99,D.F.,10th Jubilee,dunbarton-tobacco-trust-10th-jubilee,Dunbarton Tobacco & Trust,10Th Jubilee,brand-DIFF,dunbarton-tobacco-trust-10th-jubilee
+band-fb427d557162.jpg,auto-match,0.98,Factory Smokes,,drew-estate-estate-factory-smokes-maduro-gordito,Drew Estate,Estate Factory Smokes Maduro Gordito,brand-DIFF,drew-estate-estate-factory-smokes-maduro-gordito
+band-fb757fb25e4f.jpg,auto-match,0.99,Padrón,1964 Anniversary Series,padron-1964-anni-belicoso,Padrón,1964 Anni.,brand-agree,padron-1964-anni-belicoso
+band-fc3762ba23ab.jpg,auto-match,0.98,Padron,Family Reserve 1964,padron-1964-anni-belicoso,Padrón,1964 Anni.,brand-DIFF,padron-1964-anni-belicoso
+band-fe56f64e010d.jpg,auto-match,0.99,Tatuaje,Cojonu 2012,tatuaje-cojonu-2012-tuxtla,Tatuaje,Cojonu 2012 Tuxtla,brand-agree,tatuaje-cojonu-2012-tuxtla
+band-fe6325249bbe.jpg,ambiguous,0.718,Limaje,Corojo,camp-aladino,Aladino,Camp,brand-DIFF,camp-aladino
+band-fec746ceb9c8.jpg,auto-match,0.98,Diamond Crown,,diamond-crown-black-diamond-marquis,Diamond Crown,Black Diamond Marquis,brand-agree,diamond-crown-black-diamond-marquis
+band-ffba23826bb7.jpg,auto-match,0.98,H. Upmann,1844 Nicaragua,h-upmann-by-aj-fernandez,H. Upmann,H. Upmann,brand-agree,h-upmann-by-aj-fernandez
